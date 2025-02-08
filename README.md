@@ -7,7 +7,7 @@ The goal of this repository is to help students and enthusiasts gain hands-on ex
 ## 🚀 Usage
 1. Clone the repository:
    
-       git clone https://github.com/RaianRashidRimon/Algorithms.git
+       https://github.com/RaianRashidRimon/Computer-Graphics.git
    
 3. Navigate to the folder and run the desired code in your preferred compiler or IDE.
 
