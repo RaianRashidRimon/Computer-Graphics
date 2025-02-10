@@ -5,6 +5,11 @@ This repository contains fundamental computer graphics operations and algorithms
     Scan Conversion of a Line using DDA Algorithm
     Scan Conversion of a Line using Bresenham Algorithm
     Scan Conversion of a Circle using Bresenham Algorithm
+    Scan Conversion of a Circle using Midpoint Algorithm
+
+
+
+    
 ## 🎯 Purpose 
 The goal of this repository is to help students and enthusiasts gain hands-on experience with computer graphics concepts. The implementations are designed to be clear, structured, and easy to understand, making it a useful reference for learning the fundamentals of graphics programming.
 ## 🚀 Usage
