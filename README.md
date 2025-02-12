@@ -6,6 +6,7 @@ This repository contains fundamental computer graphics operations and algorithms
     Scan Conversion of a Line using Bresenham Algorithm
     Scan Conversion of a Circle using Bresenham Algorithm
     Scan Conversion of a Circle using Midpoint Algorithm
+     Scan Conversion of an Ellipse
 
 
 
