@@ -8,9 +8,10 @@ This repository contains fundamental computer graphics operations and algorithms
     Scan Conversion of a Circle using Midpoint Algorithm
     Scan Conversion of an Ellipse
     Line Transformation
-            1. Rotate it by 30 Degree
-            2. Scale it to 50%
-            3. Translate it on x-axis by 75 pixels
+             i. Rotate it by 30 Degree
+            ii. Scale it to 50%
+           iii. Translate it on x-axis by 75 pixels
+    Drawing a Kite using Bresenham Algorithm
 
 
 
