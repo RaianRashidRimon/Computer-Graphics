@@ -12,6 +12,7 @@ This repository contains fundamental computer graphics operations and algorithms
             ii. Scale it to 50%
            iii. Translate it on x-axis by 75 pixels
     Drawing a Kite using Bresenham Algorithm
+    Boundary Filling of an Object
 
 
 
