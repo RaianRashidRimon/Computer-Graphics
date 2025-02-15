@@ -13,7 +13,8 @@ This repository contains fundamental computer graphics operations and algorithms
            iii. Translate it on x-axis by 75 pixels
     Drawing a Kite using Bresenham Algorithm
     Boundary Filling of an Object
-    Flood Filling of an Object 
+    Flood Filling of an Object
+    Triangle Resize
 
 
 
