@@ -16,6 +16,7 @@ This repository contains fundamental computer graphics operations and algorithms
     Flood Filling of an Object
     Triangle Resize
     Line Clipping using Cohen-Sutherland Algortihm
+    Line Clipping using Liang-Barsky Algortihm
 
 
 
