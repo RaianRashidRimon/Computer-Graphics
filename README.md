@@ -17,6 +17,7 @@ This repository contains fundamental computer graphics operations and algorithms
     Triangle Resize
     Line Clipping using Cohen-Sutherland Algortihm
     Line Clipping using Liang-Barsky Algortihm
+    Polynomial Approximation using Bezien-Bernstein
 
 
 
