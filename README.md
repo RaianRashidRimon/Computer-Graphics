@@ -14,7 +14,7 @@ This repository contains fundamental computer graphics operations and algorithms
     Line Clipping using Cohen-Sutherland Algortihm
     Line Clipping using Liang-Barsky Algortihm
     Polynomial Approximation using Bezien-Bernstein
-    Simple 2D Road Animation
+    Simple 2D Road Animation, Simulating Object Movement
     Line Transformation
              i. Rotate it by 30 Degree
             ii. Scale it to 50%
